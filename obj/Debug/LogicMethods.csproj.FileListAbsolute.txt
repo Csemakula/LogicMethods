@@ -1,0 +1,6 @@
+C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\bin\Debug\LogicMethods.dll
+C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\bin\Debug\LogicMethods.pdb
+C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\obj\Debug\LogicMethods.csproj.AssemblyReference.cache
+C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\obj\Debug\LogicMethods.csproj.CoreCompileInputs.cache
+C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\obj\Debug\LogicMethods.dll
+C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\obj\Debug\LogicMethods.pdb
