@@ -1,0 +1,6 @@
+O:\Learning\C Sharp\Source\Repos\LogicMethods\bin\Debug\LogicMethods.dll
+O:\Learning\C Sharp\Source\Repos\LogicMethods\bin\Debug\LogicMethods.pdb
+O:\Learning\C Sharp\Source\Repos\LogicMethods\obj\Debug\LogicMethods.csproj.AssemblyReference.cache
+O:\Learning\C Sharp\Source\Repos\LogicMethods\obj\Debug\LogicMethods.csproj.CoreCompileInputs.cache
+O:\Learning\C Sharp\Source\Repos\LogicMethods\obj\Debug\LogicMethods.dll
+O:\Learning\C Sharp\Source\Repos\LogicMethods\obj\Debug\LogicMethods.pdb
