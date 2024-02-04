@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\bin\Debug\LogicMethods.dll
 C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\bin\Debug\LogicMethods.pdb
 C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\obj\Debug\LogicMethods.csproj.AssemblyReference.cache
 C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\obj\Debug\LogicMethods.csproj.CoreCompileInputs.cache
 C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\obj\Debug\LogicMethods.dll
 C:\Learning\C Sharp\Source\Repos\Csemakula\LogicMethods\obj\Debug\LogicMethods.pdb
+=======
+O:\Learning\C Sharp\Source\Repos\LogicMethods\bin\Debug\LogicMethods.dll
+O:\Learning\C Sharp\Source\Repos\LogicMethods\bin\Debug\LogicMethods.pdb
+O:\Learning\C Sharp\Source\Repos\LogicMethods\obj\Debug\LogicMethods.csproj.AssemblyReference.cache
+O:\Learning\C Sharp\Source\Repos\LogicMethods\obj\Debug\LogicMethods.csproj.CoreCompileInputs.cache
+O:\Learning\C Sharp\Source\Repos\LogicMethods\obj\Debug\LogicMethods.dll
+O:\Learning\C Sharp\Source\Repos\LogicMethods\obj\Debug\LogicMethods.pdb
+>>>>>>> 1c588f2b35a97e389235f517f0c744cd2518db84

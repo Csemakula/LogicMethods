@@ -21,6 +21,22 @@ namespace LogicMethods
             return a != 0;
         }
 
+        public static bool IsTrue(char a)
+        {
+            return a != 0;
+        }
+
+        public static bool IsTrue(short a)
+        {
+            return a != 0;
+        }
+
+        public static bool IsTrue(ushort a)
+        {
+            return a != 0;
+        }
+
+
         public static bool IsTrue(int a)
         {
             return a != 0;
